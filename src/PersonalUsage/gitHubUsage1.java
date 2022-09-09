@@ -6,5 +6,8 @@ public class gitHubUsage1 {
         System.out.println("Hello World");
 
         System.out.println("That's it");
+
+        System.out.println("i changed in class collabated in branchOfFatih");
+
     }
 }
